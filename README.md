@@ -14,8 +14,6 @@ If your using Roxwood but have created a different version then please feel free
 
 ## Edited for [Roxwood](https://ambitioneers.tebex.io/)
 
-################################################################################################################################################################################################################################
-
 ## FR/FRANCAIS : 
 Minimap étendu pour le projet de cartographie Roxwood. Sera mis à jour au fur et à mesure de l'expansion de la carte avec différentes versions adaptées aux besoins des serveurs.
 
