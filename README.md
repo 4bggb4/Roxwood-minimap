@@ -17,7 +17,7 @@ If your using Roxwood but have created a different version then please feel free
 ## FR/FRANCAIS : 
 Minimap étendu pour le projet de cartographie Roxwood. Sera mis à jour au fur et à mesure de l'expansion de la carte avec différentes versions adaptées aux besoins des serveurs.
 
-# Versions Actuelle:
+# Version Actuel:
 > GB4 Minimap (no text) ![roxwood](https://raw.githubusercontent.com/4bggb4/Roxwood-minimap/main/ExtraMapTiles/%5Btextures%5D/GB4%20Minimap%20(no%20text)/SANS.png)
 ---------
 > GB4 Minimap (text) ![roxwood2](https://raw.githubusercontent.com/4bggb4/Roxwood-minimap/main/ExtraMapTiles/%5Btextures%5D/GB4%20Minimap%20(text)/AVEC.png)
