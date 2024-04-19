@@ -5,7 +5,7 @@ If your using Roxwood but have created a different version then please feel free
 # Current Versions:
 > GB4 Minimap (no text) ![roxwood](https://raw.githubusercontent.com/4bggb4/Roxwood-minimap/main/ExtraMapTiles/%5Btextures%5D/GB4%20Minimap%20(no%20text)/SANS.png)
 ---------
-> GB4 Minimap (text) ![roxwood2](https://github.com/Manliketjb/ExtraMapTiles/assets/82594996/d019144e-5fb4-466a-9f30-80df9ac06108)
+> GB4 Minimap (text) ![roxwood2](https://raw.githubusercontent.com/4bggb4/Roxwood-minimap/main/ExtraMapTiles/%5Btextures%5D/GB4%20Minimap%20(text)/AVEC.png)
 ---------
 
 ## How To install : 
@@ -18,9 +18,9 @@ If your using Roxwood but have created a different version then please feel free
 Minimap étendu pour le projet de cartographie Roxwood. Sera mis à jour au fur et à mesure de l'expansion de la carte avec différentes versions adaptées aux besoins des serveurs.
 
 # Versions Actuelle:
-> GB4 Minimap (no text) ![roxwood](https://github.com/Manliketjb/ExtraMapTiles/assets/82594996/122b98fe-0f9a-44af-8190-5bf27e886b68)
+> GB4 Minimap (no text) ![roxwood](https://raw.githubusercontent.com/4bggb4/Roxwood-minimap/main/ExtraMapTiles/%5Btextures%5D/GB4%20Minimap%20(no%20text)/SANS.png)
 ---------
-> GB4 Minimap (text) ![roxwood2](https://github.com/Manliketjb/ExtraMapTiles/assets/82594996/d019144e-5fb4-466a-9f30-80df9ac06108)
+> GB4 Minimap (text) ![roxwood2](https://raw.githubusercontent.com/4bggb4/Roxwood-minimap/main/ExtraMapTiles/%5Btextures%5D/GB4%20Minimap%20(text)/AVEC.png)
 ---------
 
 ## Comment installer : 
