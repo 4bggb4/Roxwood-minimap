@@ -1,7 +1,7 @@
 ## CREDIT FOR THE MAP:
 https://github.com/Manliketjb/ExtraMapTiles
 
-## ORIGNIAL RESSOURCE POST :
+## ORIGINAL RESSOURCE POST :
 https://forum.cfx.re/t/release-extra-map-tiles-add-extra-map-and-minimap-texture-tiles/5179464
 
 ## EN/ENGLISH : 
