@@ -1,3 +1,6 @@
+## CREDIT:
+https://github.com/Manliketjb/ExtraMapTiles
+
 ## EN/ENGLISH : 
 Extended Minimap for the Roxwood mapping project. Will be updated as the map expands with various versions to suit servers needs.
 If your using Roxwood but have created a different version then please feel free to upload for all to use.
